@@ -14,9 +14,6 @@ BitLinks is a modern, user-friendly URL shortening web application built with Ne
 
 ---
 
-## Demo
-
-Try it live: [Add your live demo URL here]
 
 ---
 
